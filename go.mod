@@ -1,4 +1,4 @@
-module example/aviai
+module github.com/AvicennaJr/FyneAI
 
 go 1.21.5
 
